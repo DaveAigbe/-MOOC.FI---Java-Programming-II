@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="289e61ef-e9fb-433f-b0ed-70c9b3491410" name="Changes" comment="Testing push">
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/src/main/java/Cubes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/src/test/java/CubestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/target/classes/Cubes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_01.Cubes/target/test-classes/CubestTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/intellij-javadocs-4.0.1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.tmcproject.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/src/main/java/AverageOfPositiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/src/test/java/AverageOfPositiveNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/target/classes/AverageOfPositiveNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_02.AverageOfPositiveNumbers/target/test-classes/AverageOfPositiveNumbersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/src/main/java/LiquidContainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/src/test/java/LiquidContainersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/target/classes/LiquidContainers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_03.LiquidContainers/target/test-classes/LiquidContainersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/src/main/java/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/src/main/java/LiquidContainers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/src/main/java/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/src/test/java/LiquidContainers2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/target/classes/Container.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/target/classes/LiquidContainers2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/target/classes/UserInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_04.LiquidContainers2/target/test-classes/LiquidContainers2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/src/main/java/TodoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/src/main/java/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/src/test/java/TodoListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/target/classes/TodoList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/target/classes/UserInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_05.TodoList/target/test-classes/TodoListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/src/main/java/Nicknames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/src/test/java/NicknamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_06.Nicknames/target/classes/Nicknames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/src/main/java/Abbreviations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/src/test/java/AbbreviationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/target/classes/Abbreviations.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_07.Abbreviations/target/test-classes/AbbreviationsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/src/test/java/PrintMeMyHashmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/target/classes/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_08.PrintMeMyHashmap/target/test-classes/PrintMeMyHashmapTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PrintMeAnotherHashmapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_10.IOweYou/src/test/java/IOUTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/src/main/java/SimpleDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_11.SameDate/src/test/java/SimpleDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/src/main/java/SimpleDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_12.HashedDate/src/test/java/SimpleDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/src/main/java/LicensePlate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_13.VehicleRegistry/src/test/java/VehicleRegistryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_14.DictionaryOfManyTranslations/src/test/java/DictionaryOfManyTranslationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part08-Part08_15.StorageFacility/src/test/java/StorageFacilityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_01.ABC/src/test/java/ABCTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_02.PersonAndSubclasses/src/test/java/PersonAndSubclassesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/src/main/java/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/src/test/java/A_ProductWarehouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/src/test/java/B_ChangeHistoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_03.Warehousing/src/test/java/C_ProductWarehouseWithHistoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/src/main/java/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/src/main/java/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_04.DifferentKindsOfBoxes/src/test/java/DifferentKindsOfBoxesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_05.TacoBoxes/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_05.TacoBoxes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_05.TacoBoxes/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_05.TacoBoxes/src/main/java/TacoBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_05.TacoBoxes/src/test/java/TacoBoxesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_06.InterfaceInABox/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_06.InterfaceInABox/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_06.InterfaceInABox/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_06.InterfaceInABox/src/test/java/Part1test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_06.InterfaceInABox/src/test/java/Part2and3test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_07.ListAsAMethodParameter/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_07.ListAsAMethodParameter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_07.ListAsAMethodParameter/src/main/java/mainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_07.ListAsAMethodParameter/src/test/java/ListAsAMethodParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_08.MapAsAMethodParameter/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_08.MapAsAMethodParameter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_08.MapAsAMethodParameter/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_08.MapAsAMethodParameter/src/test/java/MapAsAMethodParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_09.SetAsMethodParameter/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_09.SetAsMethodParameter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_09.SetAsMethodParameter/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_09.SetAsMethodParameter/src/test/java/SetAsAMethodParameterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/src/test/java/A_WarehouseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/src/test/java/B_ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_10.OnlineShop/src/test/java/C_ShoppingCartTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/src/main/java/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/src/test/java/HerdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_11.Herds/src/test/java/OrganismTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_12.Animals/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_12.Animals/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_12.Animals/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part09-Part09_12.Animals/src/test/java/AnimalsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/src/main/java/AverageOfNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_01.AverageOfNumbers/src/test/java/AverageOfNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_02.AverageOfSelectedNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_02.AverageOfSelectedNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_02.AverageOfSelectedNumbers/src/main/java/AverageOfSelectedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_02.AverageOfSelectedNumbers/src/test/java/AverageOfSelectedNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_03.PositiveNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_03.PositiveNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_03.PositiveNumbers/src/main/java/PositiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_03.PositiveNumbers/src/test/java/PositiveNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_04.Divisible/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_04.Divisible/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_04.Divisible/src/main/java/Divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_04.Divisible/src/test/java/DivisibleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/src/main/java/PrintingUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_05.PrintingUserInput/src/test/java/PrintingUserInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/src/main/java/LimitedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_06.LimitedNumbers/src/test/java/LimitedNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/src/main/java/UniqueLastNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_07.UniqueLastNames/src/test/java/UniqueLastNamesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/main/java/Hold.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/main/java/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/main/java/Suitcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/test/java/A_ItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/test/java/B_SuitcaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/test/java/C_HoldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/test/java/D_GeneralTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_08.Weighting/src/test/java/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/src/main/java/ReadingFilesPerLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_09.ReadingFilesPerLine/src/test/java/ReadingFilesPerLineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_10.BooksFromFile/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_10.BooksFromFile/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_10.BooksFromFile/src/main/java/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_10.BooksFromFile/src/main/java/BooksFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_10.BooksFromFile/src/test/java/BooksFromFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_11.WageOrder/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_11.WageOrder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_11.WageOrder/src/main/java/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_11.WageOrder/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_11.WageOrder/src/test/java/HumanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_12.StudentsOnAlphabeticalOrder/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_12.StudentsOnAlphabeticalOrder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_12.StudentsOnAlphabeticalOrder/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_12.StudentsOnAlphabeticalOrder/src/main/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_12.StudentsOnAlphabeticalOrder/src/test/java/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_13.LiteracyComparison/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_13.LiteracyComparison/literacy.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_13.LiteracyComparison/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_13.LiteracyComparison/src/main/java/LiteracyComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_13.LiteracyComparison/src/test/java/LiteracyComparisonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_14.Literature/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_14.Literature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_14.Literature/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_14.Literature/src/test/java/LiteratureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/src/main/java/Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_15.RegularExpressions/src/test/java/RegularExpressionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/src/main/java/MainProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_16.EnumAndIterator/src/test/java/EmployeesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/main/java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/main/java/Suit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/test/java/A_CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/test/java/B_HandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/test/java/C_ComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/test/java/D_HandTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part10-Part10_17.SortThemCards/src/test/java/Help.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_01.Customer/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_01.Customer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_01.Customer/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_01.Customer/src/test/java/CustomerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_02.ABookAndAPlane/src/test/java/ABookAndAPlaneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_03.ShowAndTicket/src/test/java/ShowAndTicketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_04.StudentAndUniversity/src/test/java/StudentAndUniversityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_05.ThePlayerAndTheBot/src/test/java/PlayerAndBotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_06.SaveablePerson/src/test/java/SaveablePersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_07.BiggerClassDiagram/src/test/java/BiggerClassDiagramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/main/java/mooc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_08.FirstPackages/src/test/java/FirstPackagesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_09.TheThreePackages/src/test/java/ThreePackagesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/main/java/FlightControl/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_10.FlightControl/src/test/java/FlightControlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/src/main/java/validating/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/src/main/java/validating/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_11.ValidatingParameters/src/test/java/ValidatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_12.SensorsAndTemperature/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_12.SensorsAndTemperature/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_12.SensorsAndTemperature/src/main/java/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_12.SensorsAndTemperature/src/main/java/application/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_12.SensorsAndTemperature/src/test/java/SensorsAndTemperatureTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/src/main/java/dictionary/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/src/test/java/dictionary/SaveableDictionaryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part11-Part11_13.SaveableDictionary/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_01.Hideout/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_01.Hideout/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_01.Hideout/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_01.Hideout/src/test/java/HideoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_02.Pipe/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_02.Pipe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_02.Pipe/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_02.Pipe/src/test/java/PipeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_03.SumTheseForMe/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_03.SumTheseForMe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_03.SumTheseForMe/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_03.SumTheseForMe/src/test/java/SumTheseForMeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_04.List/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_04.List/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_04.List/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_04.List/src/test/java/ListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_05.HashMap/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_05.HashMap/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_05.HashMap/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_05.HashMap/src/test/java/HashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_06.Numbers/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_06.Numbers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_06.Numbers/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_06.Numbers/src/test/java/NumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_07.Die/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_07.Die/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_07.Die/src/main/java/Die.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_07.Die/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_07.Die/src/test/java/DieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_08.Lottery/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_08.Lottery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_08.Lottery/src/main/java/LotteryRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_08.Lottery/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_08.Lottery/src/test/java/LotteryRowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_09.ArrayAsAString/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_09.ArrayAsAString/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_09.ArrayAsAString/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_09.ArrayAsAString/src/test/java/ArrayAsStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/src/main/java/MagicSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/src/main/java/MagicSquareFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/src/main/java/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part12-Part12_10.MagicSquare/src/test/java/MagicSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/src/main/java/myFirstApplication/MyFirstApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_01.MyFirstApplication/src/test/java/myFirstApplication/MyFirstApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/src/main/java/buttonandlabel/ButtonAndLabelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_02.ButtonAndLabel/src/test/java/buttonandlabel/ButtonAndLabelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/src/main/java/buttonandtextfield/ButtonAndTextFieldApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_03.ButtonAndTextField/src/test/java/buttonandtextfield/ButtonAndTextFieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/src/main/java/borderpane/BorderPaneApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_04.BorderPane/src/test/java/borderpane/BorderPaneApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/src/main/java/textstatistics/TextStatisticsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_05.TextStatistics/src/test/java/textstatistics/TextStatisticsApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/src/main/java/notifier/NotifierApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_06.Notifier/src/test/java/notifier/NotifierApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/src/main/java/textstatistics/TextStatisticsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_07.TextStatisticsPart2/src/test/java/textstatistics/TextStatisticsApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/src/main/java/title/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/src/main/java/title/UserTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_08.UserTitle/src/test/java/title/UserTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/src/main/java/application/MultipleViews.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_09.MultipleViews/src/test/java/application/MultipleViewsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/src/main/java/application/GreeterApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_10.Greeter/src/test/java/application/GreeterApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/src/main/java/application/JokeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_11.Joke/src/test/java/application/JokeApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/src/main/java/application/VocabularyPracticeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_12.VocabularyPractice/src/test/java/application/VocabularyPracticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/src/main/java/ticTacToe/TicTacToeApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part13-Part13_13.TicTacToe/src/test/java/ticTacToe/TicTacToeApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/src/main/java/application/ShanghaiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_01.Shanghai/src/test/java/application/ShanghaiApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/partiesdata.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/src/main/java/application/PartiesApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_02.FinnishParties/src/test/java/application/PartiesApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/src/main/java/application/SavingsCalculatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_03.SavingsCalculator/src/test/java/application/SavingsCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/src/main/java/application/UnfairAdvertisementApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_04.UnfairAdvertisement/src/test/java/application/UnfairAdvertisementApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/helsinki-cycling-statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/src/main/java/application/CyclingStatistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/src/main/java/application/CyclingStatisticsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_05.CyclingStatistics/src/test/java/application/CyclingStatisticsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/src/main/java/smiley/SmileyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_06.Smiley/src/test/java/smiley/SmileyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/monalisa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/src/main/java/collage/CollageApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_07.Collage/src/test/java/collage/CollageApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/Applause-Yannick_Lemieux.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/src/main/java/hurraa/HurraaSovellus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_08.Hurray/src/test/java/hurraa/HurraaSovellusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/.tmcparams" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/nbactions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/src/main/java/asteroids/AsteroidsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_09.Asteroids/src/test/java/asteroids/AsteroidsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/src/main/java/application/Progam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/src/main/java/application/Todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/src/main/java/application/TodoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/src/main/java/application/UserInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part14-Part14_10.Database/src/test/java/application/DatabaseTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DaA0DHL6FL0lOuRnWWgk4FIbkU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dave/Documents/java_work/TMC_Projects/TMCProjects/mooc-java-programming-ii&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PrintMeAnotherHashmapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Part08_09.PrintMeAnotherHashmap" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PrintMeAnotherHashmapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PrintMeAnotherHashmapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="289e61ef-e9fb-433f-b0ed-70c9b3491410" name="Changes" comment="" />
+      <created>1660926597454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660926597454</updated>
+      <workItem from="1660926600100" duration="40000" />
+      <workItem from="1660927330492" duration="463000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testing push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing push" />
+  </component>
+</project>
